@@ -1,5 +1,5 @@
 {
-    "name": "phpsystem/componentmodel",
+    "name": "emblementelib/componentmodel",
     "description": "lib para trabalhar com attributes",
     "minimum-stability":"stable",
     "autoload": {
