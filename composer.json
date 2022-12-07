@@ -1,5 +1,5 @@
 {
-    "name": "system/componentmodel",
+    "name": "phpsystem/componentmodel",
     "description": "lib para trabalhar com attributes",
     "minimum-stability":"stable",
     "autoload": {
