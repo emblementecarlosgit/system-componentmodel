@@ -1,11 +1,10 @@
 {
-    "name": "emblementelib/componentmodel",
+    "name": "system/componentmodel",
     "description": "lib para trabalhar com attributes",
-    "minimum-stability":"stable",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Attributes\\":"src/"
         }
-    },
-    "type": "package"
+    }
 }
