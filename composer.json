@@ -1,0 +1,10 @@
+{
+    "name": "system/componentmodel",
+    "description": "lib para trabalhar com attributes",
+    "minimum-stability":"stable",
+    "autoload": {
+        "psr-4": {
+            "Attributes\\":"src/"
+        }
+    }
+}
